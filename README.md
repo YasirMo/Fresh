@@ -1,5 +1,8 @@
 # fresh project
 
+## Live
+https://freshdeno.deno.dev
+
 ### Usage
 
 Start the project:

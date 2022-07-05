@@ -29,3 +29,8 @@ https://fresh.deno.dev/
 - No configuration necessary.
 - TypeScript support out of the box.
 - Fresh embraces the tried and true design of server side rendering and progressive enhancement on the client side.
+
+
+Stack: 
+- Fresh
+- twind (The smallest, fastest, most feature complete tailwind-in-js solution in existence)
